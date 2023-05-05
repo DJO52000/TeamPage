@@ -172,7 +172,7 @@ section {
 .team-member img {
   width: 10rem;
   border-radius: 0.25em;
-  margin-right: .7em;
+  margin-right: 1em;
 }
 
 .team-member .name {
@@ -196,5 +196,5 @@ section {
 .team-member--mirrored img {
   order: 2;
   margin-right: 0;
-  margin-left: 0.7em;
+  margin-left: 1em;
 }
